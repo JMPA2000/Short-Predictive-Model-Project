@@ -26,3 +26,5 @@ Desarrollar y comparar modelos predictivos para estimar el precio de viviendas, 
 | Random Forest     | $1,100,373  | $843,811    | 0.27  |
 
 **Conclusión:** La Regresión Lineal obtuvo un mejor desempeño en este caso, mostrando menores errores de predicción y mejor capacidad explicativa, lo que sugiere una relación lineal entre las variables predictoras y el precio.
+
+*descargar y abrir el archivo html para su mejor visualización
